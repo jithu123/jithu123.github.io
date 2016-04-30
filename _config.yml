@@ -8,11 +8,11 @@
 # Site settings
 title: AutomatonLab
 email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+description: Man is about to be an automaton, he is identifiable only in the computer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://automatonlab.com" # the base hostname & protocol for your site
+twitter_username: jithu123
+github_username:  jithu123
 
 # Build settings
 markdown: kramdown
