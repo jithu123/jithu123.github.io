@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Pensieve 04-30-2016"
+date:   {{ page.date }}
+categories: pensieve
+---
+
+Todays pensieve
+
+[8 Open Source Big Data mining tools][open-source-tools]
+
+[open-source-tools]: http://www.datamation.com/data-center/slideshows/8-open-source-big-data-mining-tools.html
