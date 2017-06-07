@@ -7,8 +7,8 @@ categories: pensieve
 
 Todays pensieve
 
-[8 Open Source Big Data mining tools][open-source-tools]
 [What are Machine Learning Engineers][ml-engrs]
+[8 Open Source Big Data mining tools][open-source-tools]
 
 [open-source-tools]: http://www.datamation.com/data-center/slideshows/8-open-source-big-data-mining-tools.html
 [ml-engrs]: https://www.oreilly.com/ideas/what-are-machine-learning-engineers 
