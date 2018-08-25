@@ -10,7 +10,8 @@ title: AutomatonLab
 email: hemangsk@gmail.com
 description: Man is about to be an automaton, he is identifiable only in the computer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://automatonlab.com" # the base hostname & protocol for your site
+# url: "http://automatonlab.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: jithu123
 github_username:  jithu123
 
